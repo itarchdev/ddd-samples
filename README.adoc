@@ -6,7 +6,18 @@ Tepex <tepex@mail.ru>
 
 == Введение 
 
-Шаблон структуры _базы знаний_
+== Потребности/мотив
+
+== Цель
+Создание _цифровых моделей_ типовых _бизнес-процессов_ в парадигмах DDD, https://github.com/graninas/functional-declarative-design-methodology[FDD], FP на языке Котлин для:
+
+- наработки практики,
+- реализации Proof of Concept (PoC),
+- наглядной демонстрации рабочего кода,
+- систематизации опыта для последующей разработки методологии и фреймворка,
+- основы для проектов информационных систем (ИС).
+
+== Шаблон структуры _базы знаний_
 
 == Типовые примеры доменов 
 
@@ -16,6 +27,8 @@ Tepex <tepex@mail.ru>
 == Заключение
 
 == Ссылки
+- https://github.com/graninas/functional-declarative-design-methodology[Functional Declarative Design: A Comprehensive Methodology for Statically-Typed Functional Programming Languages].
+
 === Структура БЗ от https://t.me/anton_x345[Антона]
 
 * https://t.me/iDDDqd/41293[26.05.2025 18:19 О количестве связей (коммуникаций) между ролями].
