@@ -10,7 +10,7 @@ Tepex <tepex@mail.ru>
 
 == Типовые примеры доменов 
 
-. link:sandwich/[Приготовление сэндвича]
+. link:sandwich/README.adoc[Приготовление сэндвича]
 
 
 == Заключение
